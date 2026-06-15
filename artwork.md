@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Artwork
+title: miscellaneous
 permalink: /artwork/
 ---
  
 # Artwork
  
-*(Your artwork and creative work will go here.)*
- 
+random 
