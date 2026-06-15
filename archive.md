@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog Archive
+permalink: /archive/
 ---
  
 # Blog Archive
