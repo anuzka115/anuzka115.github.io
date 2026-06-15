@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-title" href="/">{{ site.title }}</a>
+      <nav class="site-nav">
+        <a href="/about" {% if page.url == '/about' or page.url == '/about/' %}class="active"{% endif %}>About</a>
+        <a href="/archive" {% if page.url == '/archive' or page.url == '/archive/' %}class="active"{% endif %}>Blog Archive</a>
+        <a href="/artwork" {% if page.url == '/artwork' or page.url == '/artwork/' %}class="active"{% endif %}>Artwork</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="content-wrap">
+      {{ content }}
+    </div>
+  </main>
+</body>
+</html>
