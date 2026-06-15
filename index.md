@@ -5,7 +5,5 @@ title: About
  
 # About
  
-Hi, I am Anushka. I am currently in my first year of the PhD program at IIIT Delhi. 
- 
-This site is my little archive of thought, a space where I share the things I learn with everyone :)
+Hi, I am Anushka. I am an incoming PhD student in CSE at IIITD and a recent BTech CSE graduate. Here, I wanna share my life updates and my many opinions. 
  
