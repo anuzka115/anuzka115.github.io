@@ -4,6 +4,5 @@ title: miscellaneous
 permalink: /artwork/
 ---
  
-# Artwork
  
 random 
