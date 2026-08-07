@@ -1,4 +1,4 @@
-<img width="1220" height="1560" alt="1000120717" src="https://github.com/user-attachments/assets/d43b854e-18fe-4cb0-9466-59761f11f5b1" />---
+---
 layout: default
 title: miscellaneous
 permalink: /artwork/
@@ -10,6 +10,6 @@ permalink: /artwork/
 - I love studio ghibli movies, hence own a lot of ghibli themed merch
 
 Gallery (will be updated rarely)
-<img width="1220" height="1560" alt="1000120717" src="https://github.com/user-attachments/assets/dd81969c-0d2b-4519-ad13-6b09f4c352ba" />
-<img width="736" height="886" alt="image" src="https://github.com/user-attachments/assets/534be9f8-9a51-49df-8a7d-c994b63b6c56" />
+<img width="122" height="156" alt="1000120717" src="https://github.com/user-attachments/assets/dd81969c-0d2b-4519-ad13-6b09f4c352ba" />
+<img width="73.6" height="88.6" alt="image" src="https://github.com/user-attachments/assets/534be9f8-9a51-49df-8a7d-c994b63b6c56" />
 
