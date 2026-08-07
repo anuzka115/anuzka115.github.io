@@ -29,6 +29,8 @@ html {
 }
 
 body {
+  display: flex;
+  flex-direction:column;
   background-color: var(--bg);
   color: var(--text);
   font-family: var(--font-sans);
@@ -106,6 +108,7 @@ a:hover {
    MAIN CONTENT
    ============================================================ */
 .page-content {
+  flex:1;
   padding: 3rem 2rem 5rem;
 }
 
