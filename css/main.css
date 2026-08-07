@@ -68,14 +68,8 @@ a:hover {
   justify-content: space-between;
 }
 
-.site-title {
-  font-family: var(--font-serif);
-  font-size: 1.15rem;
-  font-weight: 600;
-  color: var(--text);
-  letter-spacing: -0.01em;
-  text-decoration: none;
-}
+.site-title { font-family: 'SF Mono', 'Courier New', Consolas, monospace; font-size: 1.6rem; font-weight: 700; color: var(--text); letter-spacing: -0.01em; text-decoration: none; }
+
 .site-title:hover {
   color: var(--text);
   text-decoration: none;
