@@ -4,6 +4,8 @@ title: About
 ---
  
 # About
+
+Hi! I am Anushka :)
  
 I am a first year PhD student in the CSE department at IIIT Delhi, advised by [Prof. Rajiv Raman](https://rajivraman.weebly.com/) and [Prof. Syamantak Das](https://faculty.iiitd.ac.in/~syamantak/). My research interest is broadly in Theoretical CS. 
 
